@@ -1,0 +1,189 @@
+.row {
+    display: flex;
+    padding-top:  -40px;
+    
+}
+.box1 {
+    position: relative;
+        height: 480px;
+        width: 70%;
+        padding-left: 50px;
+        
+        font-size: 42px;
+        font-weight: bold;
+        background-color:#FFCD9E;
+        margin-left: 250px;
+        margin-top: 150px;
+    }
+
+    .section1
+    {
+        position: absolute;
+        height:110px;
+        width:43%;        
+                
+        /* border-style: solid; */
+                font-size: 32px;
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-weight:700;
+                color: #282828;
+                margin-left: 30px;
+                margin-top: 60px;
+    }
+    .image-container
+    {   
+        position: absolute;
+        margin-top: 50px;
+        /* border-style: solid;  */
+        background-color:#FFCD9E ;
+        margin-left: 600px;
+        float:right ;
+        /* float: right; */
+        width: 400px;
+    }
+    
+    .styled-image
+    {
+        background-color:#FFCD9E ;
+    width:400px;
+    height:400px;;  
+    }
+    
+    .section2
+    {   position: absolute;
+        height:90px;
+        width:43%;        
+                
+        /* border-style: solid; */
+                font-size: 17px;
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+                font-weight: 500;
+                color: #484848;
+               float: left;
+                margin-left: 30px;
+                margin-top: 165px; 
+    }
+.section3
+{
+    position: absolute;
+        height:30px;
+        width:43%;        
+                
+        /* border-style: solid; */
+                font-size: 17px;
+                font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                font-weight: 800;
+                color: #282828;
+                ;
+                margin-left: 30px;
+                margin-top: 280px; 
+}    
+.section4{
+        position:absolute;
+        background-color: #FFFFFF;
+        width: 240px;
+        height: 30px; /* Adjust height as needed */
+        font-size: 17px;
+        font-weight: 400;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #888888;
+        border-style: solid;
+        border-radius: 7px;
+        border-color: #000000; 
+        margin-top: 330px; 
+        margin-left: 30px;
+        padding-top:5px;
+        padding-left: 10px;
+        text-align: left;
+        color: #888888;
+
+} 
+.section5{
+    position:absolute;
+    background-color:#282828;
+    width: 170px;
+    height: 32px; /* Adjust height as needed */
+    font-size: 17px;
+    font-weight: 400;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    border-radius: 7px;
+    margin-top: 330px; 
+    margin-left: 300px;
+    padding-top:9px;
+    text-align:center;
+    color:#FFFFFF;
+    
+} 
+.neg{
+    position:absolute;
+    color:#FFFFFF;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    margin-top: 390px; 
+    margin-left: 80px;
+}
+.box2
+
+{position: relative;
+    height: 230px;
+    width: 70%;
+    padding-left: 50px;
+    padding-top: 0px;
+    font-size: 42px;
+    font-weight: bold;
+    background: #282828;
+
+    margin-left: 250px;
+    margin-top: 0px;
+}
+.box2-section1
+{   position: absolute;
+    color:#FFFFFF;
+    font-size: 16px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px; 
+    margin-left: 60px;
+    font-weight:5;
+
+}
+.b1
+{
+    padding: 4px;
+}
+.box2-section2
+{  
+    width: 150px;
+    /* border-style: solid; */
+    position: absolute;
+    color:#FFFFFF;
+    font-size: 16px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 55px; 
+    margin-left: 760px;
+    font-weight:5; 
+}
+.b2{
+    text-align: right;
+    padding-bottom:4px;
+}
+.b3{
+    padding-bottom:5px;
+}
+.b4
+{  
+    padding-bottom:4px;
+    height: auto;
+    text-align: right;
+}
+.b5{
+    padding-bottom:4px;
+    margin-top: -36px; 
+    margin-left:90px;
+}
+.b6
+{
+    padding-top: 25px;
+    text-align: right;
+}
